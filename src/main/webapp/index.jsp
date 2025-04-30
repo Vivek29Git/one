@@ -178,7 +178,7 @@
 
     <section id="about" class="about">
         <h2>About Me</h2>
-        <p>Hello! I'm Irfana, a DevOps Engineer passionate about optimizing workflows and delivering scalable, automated solutions. I specialize in tools like Jenkins, Docker, Kubernetes, Terraform, and cloud platforms such as AWS and Azure.</p>
+        <p>This is Vivek from Siemens org, I'm a Test Professional in PCS SysTest. We test Libraries of PCS7  .</p>
     </section>
 
     <section id="skills" class="skills">
